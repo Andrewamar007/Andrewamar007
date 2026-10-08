@@ -1,4 +1,4 @@
-# Hi, I'm Amar 👋
+# Hi, I'm Andrew amar 👋
 
 #🚀 About Me.
 
