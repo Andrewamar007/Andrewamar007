@@ -21,7 +21,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## 🔢 Total Contributions
+## 🔢 Total Contributions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amar733)
 
