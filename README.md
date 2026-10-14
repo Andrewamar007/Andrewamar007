@@ -43,7 +43,7 @@
 ### 📝 Notes App
 `JavaScript` `Node.js` `JWT` `Express`
 - 🔐 JWT Authentications
-- 📝 CRUD operations
+- 📝 CRUD operations..
 
 ### ✅ Todo App  
 `HTML` `CSS` `JavaScript`
